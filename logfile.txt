@@ -1,0 +1,4 @@
+jhjhdeleted file:	test_files/.ipynb_checkpoints	|date deleted	10/14/2019, 01:30:19
+deleted file:	test_files_1/hcgfc	|date deleted	10/14/2019, 01:30:19
+deleted file:	test_files_1/untitled.txt	|date deleted	10/14/2019, 01:30:19
+deleted file:	test_files_1/.ipynb_checkpoints/untitled-checkpoint.txt	|date deleted	10/14/2019, 01:30:19
